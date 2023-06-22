@@ -55,3 +55,7 @@ setTimeout(() => {
 
 
 // Todo Crear una funcion que cada segundo por 10 segundos, muestre en consola un número aleatorio entre 1 y 100.
+
+
+//Recibir del usuario un tiempo en minutos y realizar una cuenta regresiva en consola (en segundos). Al terminar el temporizador, mostrar una alerta indicando que se agoto el tiempo.
+
